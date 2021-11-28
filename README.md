@@ -1,5 +1,5 @@
 <h2>CosmoGalact</h2>
-<p>Cosmogalact is a website showing asteriods which are near the earth and displays each of them in detail within a range of particular date.</p> 
+<p>You can get to know about the asteriod details which are near the earth and displays each of them in detail within a range of particular date.</p> 
 <h2>Tools used:</h2> 
 <div style="display:flex;">
   <a href="https://python.org"><img src="https://img.icons8.com/color/50/000000/python.png" width="60" height="60"/></a>
