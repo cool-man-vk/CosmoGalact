@@ -4,9 +4,9 @@
 <hr>
 <h2>Tools used:</h2> 
 <div style="display:flex;">
-  <img src="https://img.icons8.com/color/50/000000/python.png" width="30" height="30"/>
-  <img src="https://img.icons8.com/color/50/000000/json.png" width="30" height="30" />
-  <img src="https://img.icons8.com/color/50/000000/nasa.png" width="30" height="30"/>
-  <img src="https://img.icons8.com/color/50/000000/html-5.png" width="30" height="30"/>
-  <img src="https://img.icons8.com/color/50/000000/css3.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/50/000000/python.png" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/50/000000/json.png" width="60" height="60" />
+  <img src="https://img.icons8.com/color/50/000000/nasa.png" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/50/000000/html-5.png" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/50/000000/css3.png" width="60" height="60"/>
 </div>
