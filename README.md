@@ -21,5 +21,5 @@ https://github.com/cool-man-vk/CosmoGalact/blob/main/python%20nb/asteroids.ipynb
 <h5>Apis</h5> 
 <ul>
     <li>Nasa-api<li>
-  </ul>
+</ul>
 
