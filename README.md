@@ -12,4 +12,10 @@
 <p>Link to the python jupyter notebook file :<a href="https://github.com/cool-man-vk/CosmoGalact/blob/main/python%20nb/asteroids.ipynb">
 https://github.com/cool-man-vk/CosmoGalact/blob/main/python%20nb/asteroids.ipynb</a>
 </p>
+<h2>Python Libraries used for this: </h2> 
+<ul>
+  <li>Requests</li> 
+  <li>Datetime</li>
+  <li>Json</li>
+</ul>
 
