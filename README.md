@@ -8,6 +8,7 @@
   <a href="https://html.com/"><img src="https://img.icons8.com/color/50/000000/html-5.png" width="60" height="60"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/50/000000/css3.png" width="60" height="60"/></a>
 </div>
+<h2>Links:</h2>
 <p>Link to the python jupyter notebook file :<a href="https://github.com/cool-man-vk/CosmoGalact/blob/main/python%20nb/asteroids.ipynb">
 https://github.com/cool-man-vk/CosmoGalact/blob/main/python%20nb/asteroids.ipynb</a>
 </p>
