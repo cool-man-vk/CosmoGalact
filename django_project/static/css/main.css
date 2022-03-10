@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+* 
+{
+    font-family: 'Nunito', sans-serif;
+}
+html 
+{
+    scroll-behavior: smooth;
+}
+.navbar-brand 
+{
+    font-family: 'Monoton', cursive;
+}
+nav 
+{
+    height: auto;
+    padding:12px;
+}
+.navbar-nav
+{
+    margin-left: auto;
+}
+.nav-link 
+{
+    font-size: 18px; 
+    text-align: center;
+    color: white !important;
+}
+.nav-link:hover 
+{
+    color:red !important;
+}
+@media(min-width:992px) 
+{
+    nav 
+    {
+        height:90px;
+    }
+}
+.container1 
+{
+    height: 90vh; 
+    width: 100%; 
+    background-image: url("../images/1876.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center;
+    overflow: auto;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+}
+.content-box 
+{
+    background: white; 
+    width:60%;
+    padding:18px;
+    border-radius: 18px;
+    text-align: center;
+}
+.content-box-2 
+{
+    background-color: lightyellow;
+    width:60%;
+    padding:18px;
+    border-radius: 18px;
+    text-align: center;
+}
+.content-box h5
+{
+    text-align:center; 
+    font-size:18px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.content-box-2 p
+{
+    font-size:16px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+.content-box a 
+{
+    text-decoration: none;
+}
+.content-box a button 
+{
+    border-radius: 18px;
+    border:none;
+    outline: none; 
+    padding:8px;
+    color:white;
+    letter-spacing: 1px;
+}
+.ast_gt
+{
+    background: linear-gradient(blue,blueviolet);
+}
+.gm_gt 
+{
+    background: linear-gradient(orange,orangered);
+}
+.content-box a button:hover 
+{
+    box-shadow: 0 0 8px grey;
+}
+@media (max-width:768px) {
+    .content-box 
+    {
+        width:96%;
+    }
+    .content-box-2
+    {
+        width:96% !important;
+        padding:10px;
+    }
+    .container2 
+    {
+        height: auto !important; 
+        padding:15px;
+    }
+    .content-box-2 p
+    {
+        font-size: 14px;
+    }
+}
+.container2 
+{
+    height: 90vh; 
+    width: 100%;
+    background: lightsteelblue;
+    overflow: auto;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+}
+/*footer */ 
+.footer 
+{
+    background-color: #252222; 
+    height:auto;
+    width:100%;
+    padding:35px;
+    display: block;
+}
+.top-foot 
+{
+    width:100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.top-foot div:nth-child(2) 
+{
+    margin-left:40%;
+}
+.foot-lists 
+{
+    list-style: none;
+}
+.foot-lists>li>a
+{
+    text-decoration: none; 
+    color:white;
+    font-size:18px;
+    transition:all .5s;
+}
+.foot-lists>li>a:hover 
+{
+    color:orangered;
+}
+.social > a 
+{
+    text-decoration: none; 
+    color:white;
+    font-size:28px;
+    margin-left: 10px; 
+    margin-right: 10px;
+    width: 48px; 
+    height:48px;
+    padding:2px;
+    border-radius: 50%;
+    background:linear-gradient(blue,blueviolet);
+}
+.social > a:hover 
+{
+    background:linear-gradient(orange,orangered);
+}
+.social >a > li > i:nth-child(1)
+{
+    padding-left: 10px;
+    padding-top:9px;
+    padding-right:5px;
+}
+.social >a > li:nth-child(2)
+{
+    padding-top:14px;
+    padding-left:13px;
+}
+.social > a:hover 
+{
+    color:white;
+}
+@media (max-width:1024px) 
+{
+    .top-foot 
+    {
+        width:100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .top-foot div:nth-child(2) 
+    {
+        margin-left:0;
+        justify-content: center;
+        align-items: center;
+    }
+}
+/* asteroids data page */ 
+.ast_box , .gst-box
+{
+    padding:30px;
+}
+.form-group , .col-sm-10
+{
+    padding:12px;
+}
